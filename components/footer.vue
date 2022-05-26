@@ -21,7 +21,7 @@
           </a>
         </li>
         <li>
-          <a target="_blank" href="https://github.com/yodynetwok/yody">
+          <a target="_blank" href="https://github.com/yodynetwork/yody">
             <Icon icon="github" brands /> Github
           </a>
         </li>

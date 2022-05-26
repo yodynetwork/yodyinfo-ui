@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yodynetwok/yodyinfo-ui.git"
+    "url": "git+https://github.com/yodynetwork/yodyinfo-ui.git"
   },
   "keywords": [
     "yody",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yodynetwok/yodyinfo-ui/issues"
+    "url": "https://github.com/yodynetwork/yodyinfo-ui/issues"
   },
-  "homepage": "https://github.com/yodynetwok/yodyinfo-ui#readme",
+  "homepage": "https://github.com/yodynetwork/yodyinfo-ui#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "bn.js": "^5.0.0",
