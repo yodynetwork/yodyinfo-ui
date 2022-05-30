@@ -4,11 +4,7 @@
   "description": "An open-source frontend for the Yodyinfo API",
   "scripts": {
     "dev": "nuxt",
-
-    "build": "YODYINFO_API_BASE_CLIENT=/api/ YODYINFO_API_BASE_SERVER=http://localhost:7001/ nuxt build",
-
-    "build": "YODYINFO_API_BASE_CLIENT=/api/ YODYINFO_API_BASE_SERVER=http://localhost:7001/ YODYINFO_API_BASE_WS=//yody.cash/ nuxt build",
-
+    "build": "YODYINFO_API_BASE_CLIENT=/api/ YODYINFO_API_BASE_SERVER=http://localhost:7001/ YODYINFO_API_BASE_WS=//explorer.yody.cash/ nuxt build",
     "start": "PORT=3000 nuxt start"
   },
   "repository": {
